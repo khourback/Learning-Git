@@ -13,6 +13,7 @@ namespace WindowsFormsApplication1
         /// </summary>
         [STAThread]
         static void Main()
+            //Change 1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
